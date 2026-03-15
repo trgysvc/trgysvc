@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trgysvc&label=Profile%20views&color=0e75b6&style=flat" alt="trgysvc" /> </p>
 
-- 🔭 I’m currently working on **unreal engine** and building **autonomous AI agents on local hardware**.
+- 🔭 I'm currently working on **unreal engine** and building **autonomous AI agents on local hardware**
 
-- 🌱 I’m currently learning **tensorflow, C++**
+- 🌱 I'm currently learning **tensorflow, C++** and **local LLM inference on edge hardware**
 
-- 👯 I’m looking to collaborate on **person who likes to share information**
+- 👯 I'm looking to collaborate on **autonomous AI systems, local LLM pipelines and anyone who likes to share knowledge**
 
-- 🤝 I’m looking for help with **blueprint**
+- 🤝 I'm looking for help with **blueprint** and **Apple Silicon MLX inference optimization**
 
-- 💬 Ask me about **unreal engine, ANF Project, python and everything about the IT department**
+- 💬 Ask me about **unreal engine, ANF — Autonomous Native Forge, Node.js native modules, vLLM on Blackwell, python and everything about IT**
 
 - 📫 How to reach me **turgaysavaci@gmail.com**
 
