@@ -11,7 +11,7 @@
 
 - 🤝 I'm looking for help with **blueprint** and **Apple Silicon MLX inference optimization**
 
-- 💬 Ask me about **unreal engine, ANF — Autonomous Native Forge, Node.js native modules, vLLM on Blackwell, python and everything about IT**
+- 💬 Ask me about **unreal engine, ANF — Autonomous Native Forge, Node.js native modules, vLLM on Blackwell, Apple Silicon, MLX, Swift, python and everything about IT**
 
 - 📫 How to reach me **turgaysavaci@gmail.com**
 
